@@ -72,4 +72,4 @@ Contribuições são bem-vindas\! Se você encontrou alguma inconsistência adic
 
 ## 📜 Licença
 
-Este projeto está sob a licença [MIT / Apache / Sua Licença].
+Este projeto está sob a [Licença MIT](LICENSE).
